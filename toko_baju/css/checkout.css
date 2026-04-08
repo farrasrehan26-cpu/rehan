@@ -1,0 +1,27 @@
+body{
+    font-family:Arial;
+    background:#f4f6f8;
+    padding:20px;
+}
+.checkout-box{
+    max-width:420px;
+    margin:auto;
+    background:white;
+    padding:30px;
+    border-radius:16px;
+    box-shadow:0 10px 20px rgba(0,0,0,.1);
+}
+.checkout-box h2{
+    margin-bottom:15px;
+}
+.checkout-box input,button{
+    width:100%;
+    padding:12px;
+    margin-top:10px;
+}
+button{
+    background:#9aa106;
+    color:white;
+    border:none;
+    border-radius:8px;
+}
